@@ -1,0 +1,217 @@
+
+Number of ephoc = 200
+Batch size = 2
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.0187437534332
+Lowest testing  objective = 0.121443837136
+Lowest training error rate = 0.15
+Lowest testing  error rate = 0.2
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.189358243346
+Lowest testing  objective = 0.134319835901
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.22
+
+Number of ephoc = 200
+Batch size = 10
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.0913816392422
+Lowest testing  objective = -0.145747500658
+Lowest training error rate = 0.37
+Lowest testing  error rate = 0.36
+
+Number of ephoc = 200
+Batch size = 15
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.188255625963
+Lowest testing  objective = 0.146936112642
+Lowest training error rate = 0.38
+Lowest testing  error rate = 0.36
+
+
+Number of ephoc = 200
+Batch size = 20
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.214241349697
+Lowest testing  objective = 0.216050603986
+Lowest training error rate = 0.35
+Lowest testing  error rate = 0.315
+
+Number of ephoc = 200
+Batch size = 30
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.265738332272
+Lowest testing  objective = 0.311188358068
+Lowest training error rate = 0.336666666667
+Lowest testing  error rate = 0.3
+
+########################### change nb_hiddenunit
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 10
+Learning rate = 0.1
+Lowest training objective = 0.173043702543
+Lowest testing  objective = 0.236298429966
+Lowest training error rate = 0.22
+Lowest testing  error rate = 0.28
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.1
+Lowest training objective = 0.178251260519
+Lowest testing  objective = -0.018690687418
+Lowest training error rate = 0.22
+Lowest testing  error rate = 0.26
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.189358243346
+Lowest testing  objective = 0.134319835901
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.22
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 40
+Learning rate = 0.1
+Lowest training objective = 0.0727486908436
+Lowest testing  objective = 0.0524700701237
+Lowest training error rate = 0.26
+Lowest testing  error rate = 0.22
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 50
+Learning rate = 0.1
+Lowest training objective = 0.0503788411617
+Lowest testing  objective = -0.18188816905
+Lowest training error rate = 0.3
+Lowest testing  error rate = 0.26
+
+
+
+
+
+
+
+
+Number of ephoc = 200
+Batch size = 10
+Hidden units = 20
+Learning rate = 0.1
+Lowest training objective = 0.198091691732
+Lowest testing  objective = 0.199352800846
+Lowest training error rate = 0.31
+Lowest testing  error rate = 0.38
+
+Number of ephoc = 200
+Batch size = 10
+Hidden units = 30
+Learning rate = 0.1
+Lowest training objective = 0.0913816392422
+Lowest testing  objective = -0.145747500658
+Lowest training error rate = 0.37
+Lowest testing  error rate = 0.36
+
+Lowest training objective = 0.0795422047377
+Lowest testing  objective = -0.140922275186
+Lowest training error rate = 0.35
+Lowest testing  error rate = 0.34
+
+Number of ephoc = 200
+Batch size = 10
+Hidden units = 40
+Learning rate = 0.1
+Lowest training objective = 0.0795422047377
+Lowest testing  objective = -0.140922275186
+Lowest training error rate = 0.35
+Lowest testing  error rate = 0.34
+
+Number of ephoc = 200
+Batch size = 10
+Hidden units = 50
+Learning rate = 0.1
+Lowest training objective = 0.144452902675
+Lowest testing  objective = -0.0292944401503
+Lowest training error rate = 0.36
+Lowest testing  error rate = 0.37
+
+############# learninig rate################
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.005
+Lowest training objective = 0.29688116312
+Lowest testing  objective = 0.290832269192
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.22
+
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.01
+Lowest training objective = 0.28658130765
+Lowest testing  objective = 0.129336315393
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.24
+
+Finished --------------------------
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.05
+Lowest training objective = 0.222624367476
+Lowest testing  objective = 0.0348815202713
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.24
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.1
+Lowest training objective = 0.178251260519
+Lowest testing  objective = -0.018690687418
+Lowest training error rate = 0.22
+Lowest testing  error rate = 0.26
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.15
+Lowest training objective = 0.123487630486
+Lowest testing  objective = 0.1610594064
+Lowest training error rate = 0.28
+Lowest testing  error rate = 0.34
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.2
+Lowest training objective = 0.0524681270123
+Lowest testing  objective = 0.179002571106
+Lowest training error rate = 0.44
+Lowest testing  error rate = 0.42
+
+Number of ephoc = 200
+Batch size = 5
+Hidden units = 20
+Learning rate = 0.25
+Lowest training objective = -0.0824675858021
+Lowest testing  objective = 0.0390999495983
+Lowest training error rate = 0.42
+Lowest testing  error rate = 0.58
